@@ -4,7 +4,7 @@
 <li> 🔭 I’m currently working on Self Projects </li>
 <li> 🌱 I’m currently learning Data Sciense & AI  </li>  
 <li> 👯 I’m looking to collaborate on sharing useful Apps </li>
-<li> ⚡ Fun fact: Most of Programmers really don't want to open cyber " Internet Café "  or install Windows as a job X'D </li>
+<li> ⚡ Fun fact: It’s all 0’s and 1’s X'D </li>
 
 ### Connect with me:
 
