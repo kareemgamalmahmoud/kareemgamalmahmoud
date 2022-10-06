@@ -21,7 +21,7 @@
 <details align="center">
   <summary align="center">:zap: GitHub Stats</summary>
 
-  <img align="center" alt="Kareem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kareemgamalmahmoud&theme=react&border=61dafb&hide_border=true" />
+  <img align="center" alt="Karim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kareemgamalmahmoud&theme=react&border=61dafb&hide_border=true" />
 
 </details>
 
