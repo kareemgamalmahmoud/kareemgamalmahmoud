@@ -35,7 +35,7 @@
 <details align="left">
   <summary align="left">:zap: Contribution Graph</summary>
 
-<img align="left" alt="Kareem's GitHub Top Languages" src="https://activity-graph.herokuapp.com/graph?username=kareemgamalmahmoud&theme=react-dark&bg_color=20232a&hide_border=true" />
+<img align="left" alt="Karim's GitHub Top Languages" src="https://activity-graph.herokuapp.com/graph?username=kareemgamalmahmoud&theme=react-dark&bg_color=20232a&hide_border=true" />
 
 </details>
 
