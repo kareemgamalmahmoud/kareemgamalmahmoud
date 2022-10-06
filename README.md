@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, This is Kareem Gamal👋</h1>
+<h1 align="center">Hi there, This is Karim Gamal👋</h1>
 <h3 align="center"> I'm Fresh Graduate </h3>
 
 <li align="center"> 🔭 I’m currently working on Self Projects </li>
